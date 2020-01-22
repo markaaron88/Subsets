@@ -1,18 +1,12 @@
 /*
-Write a C++ program called all_subsets.cpp which displays all subsets of a set.
-
-Your program should read n characters from a user and display all subsets of the characters.
-
-Your program should ask a user to enter the number of input characters.
-
-After that, it should read the characters. For the problem, you can assume that the input characters are always distinct.
-
-
-Number of input characters: 1
-Enter 1 characters: a
-===== All Subsets =====
-empty
-{a}
+ Abstract: Write a C++ program called all_subsets.cpp which displays all subsets of a set. In the problem,
+ your program should read n characters from a user and display all subsets of the characters. 
+ In the program, you can assume that the number of input characters is less than or equal to 15. 
+ Your program should ask a user to enter the number of input characters. After that, it should read the characters. For the problem, 
+ you can assume that the input characters are always distinct. 
+ Author: Mark Mariscal
+ ID: 7198
+ Date: 01/21/2020
  */
 
 #include <iostream>
